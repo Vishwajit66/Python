@@ -1,0 +1,225 @@
+#what is programming?
+A way for us to tell computers what to do.
+-understanding the human language in computer language.
+
+
+#what is python?
+- dynamic 
+- high level 
+- interpreted programming 
+- object-oriented programming approach
+
+#Features of python 
+-interpreted programming language
+-cross-platform language
+-OOP
+-GUI PROGRAMMING SUPPORT
+
+#print() function
+1. sep-EX(sep="-")
+2. end- EX(end="00\n)
+3. file
+
+
+#comments 
+-#
+-'''  '''
+
+#Escape sequence characters
+1. \n - new line 
+2. \ 
+
+#modules and pip
+-internal and external model
+
+-install any module using "pip"
+EX. pip pandas
+
+-use the module
+ex. import pandas
+
+
+#varible
+-it is a container
+-placeholder in memory and assigning its value
+
+#data type
+A type of value a variable holds.
+1. num-int, floods, complex
+2. text- str
+3. boolean - true/false, 0/1, yes/no, and/or
+(mutation-charges)
+4. sequenced data: list[](mutatable), tuple()(in mutation)
+5. dictionary -{" "}
+
+In Python "everything is the object"
+
+#typecasting of datatype
+- conversion of one datatype into another datatype 
+- a type of typecasting
+ 1. explicit - as you define datatype(customize)
+ 2. implicit - default in Python
+
+#user input 
+-use the input function() 
+
+#string
+-string is immutable
+-function
+1. string index characters
+   print(str[num(0 to n])
+
+2. length function
+   print(len(str))
+
+3. upper/lower case string
+   print(str.upper())
+   print(str.lower())
+
+4. replace of string
+   print(str.replace("str" , "str1")
+
+5. split 
+   print(a.split(" ")
+
+6. capitalize (it is used to capitalize the letter of the first letter)
+   print(str.capitalize)
+
+6. center()-use for the space
+   print(len(str.center(50)))
+
+7. end switch()- used for the change of the end
+   print(str.endswitch("str.v"))
+
+8. find() - find the word in a string if yes it gives the output "true", else "false"
+   print(str.find("str.v"))
+
+9. index() - it gives the index number of words 
+    print(str.index("str.v"))
+
+10. isalnum() - find the string is alpha-numeric
+    print(str.isalnum("str.v"))
+   
+11. isalpha() -
+
+12. is lower() -
+
+13. title()
+14. super()
+15. start with()
+16. swap case()
+17. title()
+
+
+#if .. elif .. else
+- it is a condition property
+- syntax
+        if(condition) :
+                        print(output)
+        else:
+             print()          
+
+#match case (switch case):-
+
+-syntax: match (variable obj):
+                              case 1:
+                              case 2:
+
+#for loop:-
+- 
+
+
+#while loop 
+- it is always check the condition
+
+#LIST []-
+-ordered collection of data items.
+-store multiple items in a single variable 
+-it is changeable 
+
+-METHODS  
+1. append:-
+  - it is used the add variables to the list
+  list.append(variable value)
+
+2. sort:-
+it sorts list revers, ascending, number order 
+  -list. sort()
+  -list.sort(revers=true)
+
+3. index
+   -list.index(index no.)
+
+4. count:- 
+  -It counts the variable values and how many times are returned.
+  -list.count(variable values)
+
+5. insert()-
+  - add index values
+  - l.insert(1,899)
+   list. insert(index no.,variable values)
+
+6. Extend()-
+   -it is used the add another list at the end of the list
+   -list1.extend(list2)
+
+
+#tuple():-
+-it  can not be changed, but the tuple covert into to list when you can  change the tuple
+
+
+-METHODS
+1. index
+   -tuple.index(index no.)
+   -tuple. index(value in tuple , index star ,index  end)
+
+2. count:-  
+  -It counts the variable values and how many times are returned.
+  -list.count(variable values)
+
+3. length:-
+
+
+#Dicstring:-
+ -string literals that appear right after the definition of a function, method, class,
+ -it is not a comment.
+ - EX- 
+      def square(n):
+           ''' take in a number n, returns the square of n '''
+             print(n**2)
+           square(5)
+           print(square._ _ doc_ _)
+
+#PEP(PYTHON ENHANCEMENT PROPOSAL) 8 - 
+  It is used for Python maintenance,     
+
+
+MATH FUNCTION
+1. ABS:
+       print(abs(-25))
+       print(abs(101.3))
+  output:
+           25
+           101
+
+THIS FUNCTION USED BY IMPORTING THE MATH FUNCTION
+
+
+2. MATH.CEIL:
+             print(math.ceil(-45.25))
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
